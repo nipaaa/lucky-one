@@ -2,73 +2,73 @@
     {
       "id": 0,
       "productName": "HMQL Attar",
-      "price": "$2,655.90",
+      "price": "$2,65",
       "picture": "images/41HMqLHD2cL.jpg"
     },
     {
       "id": 1,
       "productName": "Shamamatul Amber Attar",
-      "price": "$2,424.00",
+      "price": "$2,42",
       "picture": "images/shamamatul-amber-attar-500x500.jpg"
     },
     {
       "id": 2,
       "productName": "Rose Agarbatti Perfume",
-      "price": "$1,024.20",
+      "price": "$1,02",
       "picture": "images/rose-agarbatti-perfume-250x250.jpg"
     },
     {
       "id": 3,
       "productName": "Islamic Attar",
-      "price": "$2,290.00",
+      "price": "$2,29",
       "picture": "images/islamic.jpg"
     },
     {
       "id": 4,
       "productName": "Gemini Attar",
-      "price": "$2,921.76",
+      "price": "$",
       "picture": "images/gemini-attar-fragrance-250x250.jpg"
     },
     {
       "id": 5,
       "productName": "Bakhoor",
-      "price": "$1,932.09",
+      "price": "$",
       "picture": "images/bakhoor-12-prntd-scaled.jpg"
     },
     {
       "id": 6,
       "productName": "Amber Oudh Attar",
-      "price": "$1,291.50",
+      "price": "$",
       "picture": "images/amber-oudh-attar-500x500.jpg"
     },
     {
       "id": 7,
       "productName": "Bakhoor Attar",
-      "price": "$3,715.37",
+      "price": "$",
       "picture": "images/1456635339.jpg"
     },
     {
       "id": 8,
       "productName": "Halal Attar",
-      "price": "$3,453.14",
+      "price": "$",
       "picture": "images/1078577-1.jpg"
     },
     {
       "id": 9,
       "productName": "Vwwxao Tuba Attar",
-      "price": "$3,308.68",
+      "price": "$",
       "picture": "images/67164_vwwxao_tuba_attar_240.jpg"
     },
     {
       "id": 10,
       "productName": "Mitti Attar",
-      "price": "$2,212.48",
+      "price": "$",
       "picture": "images/7339mitti-attar-s.jpg"
     },
     {
       "id": 11,
       "productName": "Islamic Bakhur Attar",
-      "price": "$3,258.40",
+      "price": "$3,25",
       "picture": "images/islamic-bakhur-attar-500x500.jpg"
     }
   ]
