@@ -29,15 +29,15 @@ const Products = () => {
     }
 
     return (
-       <div className='row g-0'>
+           <div className='row g-0 m-0'>
              <div className='col-lg-3 col-sm-12 mt-5'>
             <OrderList 
             cart={cart}
             key={cart.id}
             ></OrderList>
-            <div className='ps-5'>
+            <div className='ms-4'>
             <button onClick={() => chooseOne(cart)}  type="button" className="btn btn-outline-dark my-2">Choose One</button> <br />
-            <button onClick={removeProduct} type="button" className="btn btn-outline-dark">Reset</button>
+            <button onClick={removeProduct} type="button" className="btn btn-outline-danger">Reset</button>
             </div>
         </div>
 
@@ -47,7 +47,6 @@ const Products = () => {
                     key={product.id}
                     product={product}
                     handleToCart={handleToCart}
-                    removeProduct={removeProduct}
                     ></Product>)
             }
         </div>

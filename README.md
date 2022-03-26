@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ My react project about halal fragrance shop[Lucky-one-nipaaa](https://lucky-one-nipaaa.netlify.app/).
 
 ## Available Scripts
 

@@ -9,7 +9,7 @@ const Product = ({product,handleToCart}) => {
       <div class="card-body">
         <h5 class="card-title">{productName}</h5>
         <p class="card-text">Price: {price}</p>
-        <button type="button" onClick={()=>handleToCart(product)} class="btn btn-outline-dark">Buy Now<i class="fa-solid fa-cart-arrow-down"></i></button>
+        <button type="button" onClick={()=>handleToCart(product)} class="btn btn-outline-dark">Buy Now <i class="fa-solid fa-cart-arrow-down"></i></button>
       </div>
     </div>
   </div>       
