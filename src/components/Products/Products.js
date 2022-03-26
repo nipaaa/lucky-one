@@ -30,7 +30,7 @@ const Products = () => {
 
     return (
            <div className='row g-0 m-0'>
-             <div className='col-lg-3 col-sm-12 mt-5'>
+             <div className='col-lg-3 col-sm-12 mt-4'>
             <OrderList 
             cart={cart}
             key={cart.id}
@@ -41,7 +41,7 @@ const Products = () => {
             </div>
         </div>
 
-            <div class="col-lg-9 col-sm-12 row row-cols-1 row-cols-md-3 g-4">
+            <div className="col-lg-9 col-sm-12 row row-cols-1 row-cols-md-3 m-0 g-4">
             {
                   products.map(product => <Product 
                     key={product.id}

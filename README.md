@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
- My react project about halal fragrance shop[Lucky-one-nipaaa](https://lucky-one-nipaaa.netlify.app/).
+ My react project about halal fragrance shop [Lucky-one-nipaaa] (https://lucky-one-nipaaa.netlify.app/).
 
 ## Available Scripts
 
