@@ -8,7 +8,7 @@ const QusAns = () => {
     <div className="card">
       <div className="card-body">
         <h5 className="card-title">How does react work?</h5>
-        <p className="card-text">In React, whenever a components' state changes, the changes are reflected in Virtual DOM.Virtual DOM has the updated state of the component.Whenever a component's state changes, code is re rendered by DOM, and browser has to repaint each and every element on the screen. This involves a lot of mathematical and other calculations. In fancy words, React does batch updates.React Scenes is a simple way to create/test your react components inside your app.React works in declarative code. </p>
+        <p className="card-text">In React, whenever a component' state changes, the changes are reflected in Virtual DOM.Virtual DOM has the updated state of the component.Whenever a component's state changes, code is re rendered by DOM, and browser has to repaint each and every element on the screen. This involves a lot of mathematical and other calculations. In fancy words, React does batch updates.React Scenes is a simple way to create/test your react components inside your app.React works in declarative code. </p>
       </div>
     </div>
   </div>
